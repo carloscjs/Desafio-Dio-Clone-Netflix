@@ -1,0 +1,14 @@
+body {
+    font-family: montserratLight,Arial,Sans-Serif;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: whitesmoke;
+    background-color: black;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h4 {
+    margin-top: 50px;
+}
